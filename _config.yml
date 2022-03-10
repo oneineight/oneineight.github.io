@@ -1,6 +1,9 @@
 # https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll
 
-#theme: jekyll-theme-leap-day
+name: "One In Eight"
+url: "https://oneineight.dev"
+
+theme: leap-day
 
 #plugins:
 #  - jemoji
