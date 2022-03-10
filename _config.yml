@@ -5,7 +5,9 @@ description: "*DESCRIPTION*"
 name: "NAME:One In Eight"
 url: "https://oneineight.dev"
 
-theme: leap-day
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme
 
 #plugins:
 #  - jemoji
